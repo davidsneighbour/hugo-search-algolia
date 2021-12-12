@@ -1,6 +1,5 @@
 github.com/dnb-org/dnb-hugo-debug v1.4.3 h1:LbSxXq624VWkFEtoMJBaLuH7cXvZIXRYzzP6xiS4o2o=
 github.com/dnb-org/dnb-hugo-debug v1.4.3/go.mod h1:NWi/VpUDXC2GU5TLM7UEjL7HPT2WmgHgoURHTCVzTho=
-github.com/dnb-org/dnb-hugo-functions v0.0.2/go.mod h1:rU9Qd0s50UyD3QAHrTqegeHU2nlrSJJUy0VxV7ePwcU=
 github.com/dnb-org/dnb-hugo-functions v0.0.3 h1:duZCvebXP2xtRbdjcSUZKCk5uK+qrooKspUYyAGDUFY=
 github.com/dnb-org/dnb-hugo-functions v0.0.3/go.mod h1:rU9Qd0s50UyD3QAHrTqegeHU2nlrSJJUy0VxV7ePwcU=
 github.com/dnb-org/dnb-hugo-hooks v1.0.23 h1:eRb5/dDXcfE+NVR6JK7b9b91yE0m23ZjxY+taoSapqU=
