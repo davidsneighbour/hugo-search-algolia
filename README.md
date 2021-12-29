@@ -1,4 +1,11 @@
-## DNB Hugo Components / Search Algolia
+<!--- CARD BEGIN --->
+
+![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
+![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
+
+<!--- CARD END --->
+
+# DNB GoHugo Component / Search Algolia
 
 This is a Hugo theme component with helpers to add an [Algolia powered search](https://www.algolia.com/) to your website.
 
