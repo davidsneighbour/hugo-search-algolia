@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/dnb-org/dnb-hugo-search-algolia/compare/v0.0.3...v0.0.4) (2022-01-28)
+
+
+### Chore
+
+* **config:** update header images ([460ccf4](https://github.com/dnb-org/dnb-hugo-search-algolia/commit/460ccf4094b407319fad669f8ba21b4b06a26660))
+* **deps:** update dependencies ([c37bbf1](https://github.com/dnb-org/dnb-hugo-search-algolia/commit/c37bbf1a268e2cc4ad84ea6fed83cd2ecbe0e378))
+* update go version ([0bcfc29](https://github.com/dnb-org/dnb-hugo-search-algolia/commit/0bcfc29b1276753f1333e39224825ccf892a8e05))
+* update repository files ([a1ec022](https://github.com/dnb-org/dnb-hugo-search-algolia/commit/a1ec02258753ec3de1c8f217eea39b538da5ad3c))
+
+
+### Build System
+
+* **fix:** re-organise paths to build scripts ([51ac149](https://github.com/dnb-org/dnb-hugo-search-algolia/commit/51ac1493dac451001e6bd819415897caf4fb98b4))
+
 ### [0.0.3](https://github.com/dnb-org/dnb-hugo-search-algolia/compare/v0.0.2...v0.0.3) (2021-12-12)
 
 

@@ -1,6 +1,6 @@
 github.com/dnb-org/dnb-hugo-debug v1.4.3 h1:LbSxXq624VWkFEtoMJBaLuH7cXvZIXRYzzP6xiS4o2o=
 github.com/dnb-org/dnb-hugo-debug v1.4.3/go.mod h1:NWi/VpUDXC2GU5TLM7UEjL7HPT2WmgHgoURHTCVzTho=
-github.com/dnb-org/dnb-hugo-functions v0.0.3 h1:duZCvebXP2xtRbdjcSUZKCk5uK+qrooKspUYyAGDUFY=
-github.com/dnb-org/dnb-hugo-functions v0.0.3/go.mod h1:rU9Qd0s50UyD3QAHrTqegeHU2nlrSJJUy0VxV7ePwcU=
-github.com/dnb-org/dnb-hugo-hooks v1.0.23 h1:eRb5/dDXcfE+NVR6JK7b9b91yE0m23ZjxY+taoSapqU=
-github.com/dnb-org/dnb-hugo-hooks v1.0.23/go.mod h1:mOVpcg5SDLRh05GdfbaZVWWCxIsklFXC/zkRsc+MBD0=
+github.com/dnb-org/dnb-hugo-functions v1.0.2 h1:1yyVw2IgyaWu3iQitBH7Fe6mUv59uIPs5EctW+MVhVY=
+github.com/dnb-org/dnb-hugo-functions v1.0.2/go.mod h1:bTX/w1EzpOQYB+XOcInG/k/zPK8/pj7P2OuQNTXnp5g=
+github.com/dnb-org/dnb-hugo-hooks v1.1.0 h1:dmVi19eea7VytVKEK+Hkgzncon7rmWolHVFqjMKHwCA=
+github.com/dnb-org/dnb-hugo-hooks v1.1.0/go.mod h1:mWy5sE8Jqhg6YeNkAC5LUBI1iaNXyAtpmqsJmcr6JFo=
