@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/davidsneighbour/hugo-search-algolia/compare/v0.0.5...v0.1.0) (2022-04-07)
+
+
+### Chore
+
+* updates and repo-renames ([b5e1e25](https://github.com/davidsneighbour/hugo-search-algolia/commit/b5e1e254138d0b8b77a5d41502e113ebeb811af9))
+
 ### [0.0.5](https://github.com/dnb-org/dnb-hugo-search-algolia/compare/v0.0.4...v0.0.5) (2022-04-06)
 
 
