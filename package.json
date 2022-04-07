@@ -8,9 +8,9 @@
     "email": "patrick@davids-neighbour.com",
     "web": "https://davids-neighbour.com"
   },
-  "homepage": "https://github.com/dnb-org/dnb-hugo-search-algolia",
-  "repository": "dnb-org/dnb-hugo-search-algolia",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-search-algolia/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-search-algolia",
+  "repository": "davidsneighbour/hugo-search-algolia",
+  "bugs": "https://github.com/davidsneighbour/hugo-search-algolia/issues",
   "devDependencies": {
     "@dnb-org/remark-config": "^3.5.7",
     "@dnb-org/standard-version-config": "^3.5.6",

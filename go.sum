@@ -1,6 +1,6 @@
-github.com/dnb-org/dnb-hugo-debug v1.4.3 h1:LbSxXq624VWkFEtoMJBaLuH7cXvZIXRYzzP6xiS4o2o=
-github.com/dnb-org/dnb-hugo-debug v1.4.3/go.mod h1:NWi/VpUDXC2GU5TLM7UEjL7HPT2WmgHgoURHTCVzTho=
-github.com/dnb-org/dnb-hugo-functions v1.0.2 h1:1yyVw2IgyaWu3iQitBH7Fe6mUv59uIPs5EctW+MVhVY=
-github.com/dnb-org/dnb-hugo-functions v1.0.2/go.mod h1:bTX/w1EzpOQYB+XOcInG/k/zPK8/pj7P2OuQNTXnp5g=
-github.com/dnb-org/dnb-hugo-hooks v1.1.0 h1:dmVi19eea7VytVKEK+Hkgzncon7rmWolHVFqjMKHwCA=
-github.com/dnb-org/dnb-hugo-hooks v1.1.0/go.mod h1:mWy5sE8Jqhg6YeNkAC5LUBI1iaNXyAtpmqsJmcr6JFo=
+github.com/davidsneighbour/hugo-debug v1.4.3 h1:LbSxXq624VWkFEtoMJBaLuH7cXvZIXRYzzP6xiS4o2o=
+github.com/davidsneighbour/hugo-debug v1.4.3/go.mod h1:NWi/VpUDXC2GU5TLM7UEjL7HPT2WmgHgoURHTCVzTho=
+github.com/davidsneighbour/hugo-functions v1.0.2 h1:1yyVw2IgyaWu3iQitBH7Fe6mUv59uIPs5EctW+MVhVY=
+github.com/davidsneighbour/hugo-functions v1.0.2/go.mod h1:bTX/w1EzpOQYB+XOcInG/k/zPK8/pj7P2OuQNTXnp5g=
+github.com/davidsneighbour/hugo-hooks v1.1.0 h1:dmVi19eea7VytVKEK+Hkgzncon7rmWolHVFqjMKHwCA=
+github.com/davidsneighbour/hugo-hooks v1.1.0/go.mod h1:mWy5sE8Jqhg6YeNkAC5LUBI1iaNXyAtpmqsJmcr6JFo=

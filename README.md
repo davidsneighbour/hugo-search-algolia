@@ -22,7 +22,7 @@ Then add this module to your required modules in config.toml.
 ```toml
 [module]
 [[module.imports]]
-path = "github.com/dnb-org/dnb-hugo-search-algolia"
+path = "github.com/davidsneighbour/hugo-search-algolia"
 ```
 
 The next time you run `hugo` it will download the latest version of the module.
@@ -79,7 +79,7 @@ npm run algolia
 ### Updating
 
 ```shell
-hugo mod get -u github.com/dnb-org/dnb-hugo-search-algolia
+hugo mod get -u github.com/davidsneighbour/hugo-search-algolia
 hugo mod get -u # update all modules
 ```
 

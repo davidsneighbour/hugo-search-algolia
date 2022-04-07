@@ -18,16 +18,16 @@ target = "layouts"
 disable = false
 ignoreConfig = false
 ignoreImports = false
-path = "github.com/dnb-org/dnb-hugo-functions"
+path = "github.com/davidsneighbour/hugo-functions"
 
 [[imports]]
 disable = false
 ignoreConfig = false
 ignoreImports = false
-path = "github.com/dnb-org/dnb-hugo-debug"
+path = "github.com/davidsneighbour/hugo-debug"
 
 [[imports]]
 disable = false
 ignoreConfig = false
 ignoreImports = false
-path = "github.com/dnb-org/dnb-hugo-hooks"
+path = "github.com/davidsneighbour/hugo-hooks"
