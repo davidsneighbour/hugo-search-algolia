@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/davidsneighbour/hugo-search-algolia/compare/v0.1.1...v0.1.2) (2022-04-20)
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([#37](https://github.com/davidsneighbour/hugo-search-algolia/issues/37)) ([17619d2](https://github.com/davidsneighbour/hugo-search-algolia/commit/17619d2c4e93f192da4b40e6b71d4cadf51bdda3))
+
 ### [0.1.1](https://github.com/davidsneighbour/hugo-search-algolia/compare/v0.1.0...v0.1.1) (2022-04-07)
 
 
