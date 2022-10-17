@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/davidsneighbour/hugo-search-algolia/compare/v0.1.2...v0.1.3) (2022-10-17)
+
+
+### Theme
+
+* use primary as button outline ([781ac1e](https://github.com/davidsneighbour/hugo-search-algolia/commit/781ac1eeb4c93a350a36b221866e3776d9fb1fd2))
+
+
+### Chore
+
+* **config:** fix standard-version configuration ([d7b4586](https://github.com/davidsneighbour/hugo-search-algolia/commit/d7b45861c7770e521427017cfd68f10defc9da2f))
+* **config:** set Dependabot to monthly checks ([fcdf6f5](https://github.com/davidsneighbour/hugo-search-algolia/commit/fcdf6f5e4ffbd1f107c5624a8b4adf2e283704bc))
+* update build system and setup ([ceabc9b](https://github.com/davidsneighbour/hugo-search-algolia/commit/ceabc9b76013abf5d673bb2edaea881da5718579))
+
 ### [0.1.2](https://github.com/davidsneighbour/hugo-search-algolia/compare/v0.1.1...v0.1.2) (2022-04-20)
 
 
