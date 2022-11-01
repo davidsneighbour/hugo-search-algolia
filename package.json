@@ -12,7 +12,7 @@
   "repository": "davidsneighbour/hugo-search-algolia",
   "bugs": "https://github.com/davidsneighbour/hugo-search-algolia/issues",
   "devDependencies": {
-    "@davidsneighbour/config": "^1.0.29"
+    "@davidsneighbour/config": "^1.0.37"
   },
   "scripts": {
     "clean": "run-p clean:*",
